@@ -56,7 +56,7 @@
 
 <p align="center"><img height="120" align="center"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=coolokawesome&show_icons=true&locale=en&layout=compact&theme=react"
-                alt="fyfirman" />
+ />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=coolokawesome" alt="fyfirman" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coolokawesome"/> </p>
