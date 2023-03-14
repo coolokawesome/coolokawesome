@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Syrus Samson 👋</h1>
+<h1 align="center">Hi there, my name's Syrus Samson 👋</h1>
 <h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently a freelancer/student in web development, with focus on front-end technologies and frameworks
@@ -7,7 +7,8 @@
 
 - 📫 Feel free to contact me at **syrus.samson99@gmail.com**
 
-<h3 align="left">Technologies:</h3>
+<h3 align="center">Technologies:</h3>
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" />
@@ -36,8 +37,7 @@
                 alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                 alt="mysql" width="40" height="40" /> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> < img
-                src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40"
                 height="40" />
 </a>
 <a href="https://www.linux.org/" target="_blank">
@@ -45,7 +45,9 @@
                 width="40" height="40" /> </a>
 
 
-<h3 align="left">Connect with me:</h3>
+</p>
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
         <a href="https://www.linkedin.com/in/syrus-samson-0385a9225/" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
