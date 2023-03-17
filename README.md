@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a freelancer/student in web development, with focus on front-end technologies and frameworks
 
-- 👨‍💻 You can know more about me and read some my experience at [syrussamson.ca](https://www.syrussamson.ca/)
+- 👨‍💻 You can know more about me and see some of my recent projects at [syrussamson.ca](https://www.syrussamson.ca/)
 
 - 📫 Feel free to contact me at **syrus.samson99@gmail.com**
 
