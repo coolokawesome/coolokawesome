@@ -1,9 +1,8 @@
-<h1 align="center">Hi there, my name's Syrus Samson 👋</h1>
+<h1 align="center">Hi there, my name's Syrus 👋</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 A current freelancer working with small businesses, studying front-end technologies and frameworks
-
-- 👨‍💻 You can know more about me and see some of my recent projects at [syrussamson.ca](https://www.syrussamson.ca/)
+- 🔭 Currently a web developer working for Telecost as well as freelancing, working with small businesses!
+- 👨‍💻 You can know more about me and see some of my recent projects at [syrussamson.ca](https://www.syrussamson.ca/) (🚧 still under construction 🚧)
 
 - 📫 Feel free to contact me at **syrus.samson99@gmail.com**
 
