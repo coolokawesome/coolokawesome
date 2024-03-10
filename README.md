@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, my name's Syrus 👋</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 Currently a web developer working for Telecost as well as freelancing, working with small businesses!
+- 🔭 Currently a web developer working at Telecost (Resource Software International) 
+- 💫 Currently freelancing, working with small businesses
 - 👨‍💻 You can know more about me and see some of my recent projects at [syrussamson.ca](https://www.syrussamson.ca/) (🚧 still under construction 🚧)
 
 - 📫 Feel free to contact me at **syrus.samson99@gmail.com**
