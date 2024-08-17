@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, my name's Sy\ 👋</h1>
+<h1 align="center">Hi there, my name's Sy 👋</h1>
 <h3 align="center">Web Developer</h3>
 
 - 🔭 Currently a web developer working at Telecost (Resource Software International) 
