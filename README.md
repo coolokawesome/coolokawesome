@@ -5,7 +5,6 @@
 - 💫 Currently freelancing, working with small businesses
 - 👨‍💻 You can know more about me and see some of my recent projects at [syrussamson.ca](https://www.syrussamson.ca/) (🚧 still under construction 🚧)
 
-- 📫 Feel free to contact me at **syrus.samson99@gmail.com**
 
 <h3 align="">Technologies:</h3>
 <p align="">
